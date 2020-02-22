@@ -12,7 +12,7 @@ It also features an optional boolean argument for printing this byte array on ev
 
 ### Brainfuck multiplication machine
 
-Probably the last time using this.
+Probably the last time I will use this.
 ```
 ++++++++++[>+++++<-]>[-<+>]<-- //Loading 48 to the first pointer (48 char ascii)
 [>+>+<<-] //Getting that 48 in two different pointers
